@@ -1,4 +1,4 @@
-## Simba 
+# Simba 
 
 simba colors for vim. 
 
