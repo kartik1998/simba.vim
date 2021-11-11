@@ -2,6 +2,16 @@
 
 simba colors for vim. 
 
+## Install
+
+Use [vim-plug](https://github.com/kartik1998/simba.vim) or any other plugin manager of your choice:
+
+```viml
+Plug 'kartik1998/simba.vim'
+
+colorscheme simba
+```
+
 ### Simba
 ![](./assets/simba.png)
 
